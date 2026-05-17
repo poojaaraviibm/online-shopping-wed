@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Elite Pro Sneakers",
+    "category": "Shoes",
+    "price": 129.99,
+    "rating": 4.8,
+    "image": "images/shoes.png",
+    "description": "High-performance sneakers with breathable mesh and responsive cushioning."
+  },
+  {
+    "id": 2,
+    "name": "Sonic Waves Headphones",
+    "category": "Headphones",
+    "price": 249.50,
+    "rating": 4.9,
+    "image": "images/headphones.png",
+    "description": "Premium noise-canceling wireless headphones with crystal clear sound."
+  },
+  {
+    "id": 3,
+    "name": "Nebula Smart Watch",
+    "category": "Smart Watch",
+    "price": 199.00,
+    "rating": 4.7,
+    "image": "images/watch.png",
+    "description": "Stylish smart watch with heart rate monitoring and 7-day battery life."
+  },
+  {
+    "id": 4,
+    "name": "Titan X Mobile Phone",
+    "category": "Mobile Phone",
+    "price": 899.00,
+    "rating": 4.9,
+    "image": "images/phone.png",
+    "description": "Next-gen smartphone with professional-grade camera and OLED display."
+  },
+  {
+    "id": 5,
+    "name": "Apex 15 Laptop",
+    "category": "Laptop",
+    "price": 1499.00,
+    "rating": 4.6,
+    "image": "images/laptop.png",
+    "description": "Ultra-thin powerful laptop for creators and professionals."
+  },
+  {
+    "id": 6,
+    "name": "Vanguard Backpack",
+    "category": "Backpack",
+    "price": 75.00,
+    "rating": 4.5,
+    "image": "images/backpack.png",
+    "description": "Durable, water-resistant backpack with dedicated laptop compartment."
+  },
+  {
+    "id": 7,
+    "name": "Classic Comfort T-Shirt",
+    "category": "T-Shirt",
+    "price": 25.00,
+    "rating": 4.4,
+    "image": "images/tshirt.png",
+    "description": "100% organic cotton tee with a modern fit and soft feel."
+  },
+  {
+    "id": 8,
+    "name": "Lumina DSLR Camera",
+    "category": "Camera",
+    "price": 1100.00,
+    "rating": 4.8,
+    "image": "images/camera.png",
+    "description": "Capture life's moments with stunning clarity and precision."
+  }
+]
